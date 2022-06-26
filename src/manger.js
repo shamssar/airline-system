@@ -1,6 +1,8 @@
 'use strict';
 const events = require('./events');
 const { faker } = require('@faker-js/faker');
+require('./pilot');
+require('../system');
 
 setInterval(() => {
     
