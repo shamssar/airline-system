@@ -9,4 +9,8 @@ We have three main components in this system:
 
 
 ## UML Diagram 
-![iamge](./airline%20refactor.png)
+![iamge](./messgequeue.png)
+
+
+### Featutess added by class 13
+Creating message queue to store the events when the pilot is offline and send them back when he became online.
